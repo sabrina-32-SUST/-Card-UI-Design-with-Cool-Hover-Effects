@@ -49,3 +49,10 @@ overflow: hidden;
     transition: .5s;
 }
 
+.card  .news-content .post-meta a{
+    text-decoration: none;
+    padding-right: 10px;
+    color: ;
+    font-weight: bold;
+    transition: .5s;
+}
