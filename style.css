@@ -65,3 +65,14 @@ overflow: hidden;
     overflow: hidden;
 }
 
+.card  .news-content p{
+    font-size: 16px;
+    margin: 10px 0 0;
+    padding:  0;
+    color: ;
+    transition: .5s;
+    opacity: 0;
+
+}
+.card:hover  .news-content p{
+    opacity: 1;
